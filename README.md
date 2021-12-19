@@ -1,3 +1,21 @@
+## Initial Scope
+
+This project is an experimentation medium for pitched ideas regarding application
+cases of AI in processes rather than products. Topics relevant to integration 
+orchestration, tooling, etc., will not be part of the main agenda. 
+
+On that basis, the project aims to produce valuable insights about the 
+capabilities and limitations of contemporary AI solutions in various contexts.
+This will happen through minimal use case experiments that present potential of
+improving the existing modus operandi. 
+
+
+OpenAI (GPT-3) has been selected as the major facilitator since it is applicable
+to a diverse spectrum of problems without compromizations.
+
+
+***
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
