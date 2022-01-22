@@ -9,3 +9,7 @@ export const escape = (s: string) => {
     .replace(/\\b/g, "\\b")
     .replace(/\\f/g, "\\f");
 };
+
+export const sanitize = (s: string) => {
+  return s.replace("\\n", "\n");
+};
